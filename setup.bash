@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#witten by S. Igo
 
 exec 2> /tmp/setup.log
 
